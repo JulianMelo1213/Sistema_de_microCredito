@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sistema_Gestion_de_MicroCreditos.BD_microprestamosDataSet" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJAFAgAQAAAgAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Clientes" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAAQkAKBCAFEAACCGAAACAAACAIQAUCAAQAgYIQA=</HashCode>
+      <FileName>Clientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Cobros" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gESAAEEgAaDiALEAAGKDBAAiGAAAAIQAVCgAEggYQQA=</HashCode>
+      <FileName>Cobros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Conexion" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Crud" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARSCEAggAKACAHEAACCCBEgKACAIAMQAUGBAAAgcAEA=</HashCode>
+      <FileName>Crud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.EnvioCorreo" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnvioCorreo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Form1" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAQgAKAAgVEACCCAAQACAAAAEAACQAQAAAhQAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Historial" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAgAKBiABEIAGCCAAgCAAAIAAwAUEAAAAgYAQA=</HashCode>
+      <FileName>Historial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Limpiar" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Limpiar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Prestamo" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8RCABAIgAKBAAJGCAKiGEQgCAABIAAQBUCFAAAhd8Yg=</HashCode>
+      <FileName>Prestamo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Presupuesto" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAgAKgAABEQACSCAAACAAAAAAQAUAAgAAgYAAA=</HashCode>
+      <FileName>Presupuesto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Program" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.StringCipher" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>StringCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.VentanaPrincipal" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAiBKAAYBEAACiCCAgCAAAAAAQAQgEAAAhYABI=</HashCode>
+      <FileName>VentanaPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.BD_microprestamosDataSetTableAdapters.clienteTableAdapter" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAACAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.BD_microprestamosDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAABARAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Properties.Resources" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_Gestion_de_MicroCreditos.Properties.Settings" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAABAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
